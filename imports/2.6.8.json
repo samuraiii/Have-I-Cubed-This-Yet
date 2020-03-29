@@ -1,5 +1,5 @@
-﻿{
-	"Weapons": [
+{
+    "Weapons": [
         {
             "itemName": "Aether Walker",
             "affix": "Teleport no longer has a cooldown but costs 25 Arcane Power.",
