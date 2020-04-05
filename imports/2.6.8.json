@@ -3990,9 +3990,9 @@
             "crusader": false,
             "daemonHunter": false,
             "necromancer": false,
-            "witchDoctor": true,
+            "witchDoctor": false
             "wizzard": false,
-            "monk": false,
+            "monk": true,
             "isCrafted": false,
             "type": "Staff",
             "isCubedSeasonHC": false,
